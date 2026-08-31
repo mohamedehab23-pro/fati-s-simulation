@@ -1,0 +1,7 @@
+import products from "../../../public/data/fati's.json"
+
+export async function GetProductApi(){
+return products
+}
+
+export async function GetSpecific

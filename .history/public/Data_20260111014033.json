@@ -1,0 +1,21 @@
+
+import pink from '../../assets/pink.jpg'
+import bundles from '../../assets/bundles.jpg'
+import donuts from '../../assets/donuts.jpg'
+import share from '../../assets/share-boxes.jpg'
+import cookies from '../../assets/cookies.jpg'
+import muffin from '../../assets/muffin.jpg'
+import birthday from '../../assets/birthday.jpg'
+import cards from '../../assets/cards.png'
+import fits from '../../assets/fits.jpg'
+[
+      {"src":"pink","id":1,"name":"Fati’s Pink Wonderland"},
+  {"src":"bundles","id":12,"name":"Bundles"},
+  {"src":"donuts","id":13,"name":"Donuts"},
+  {"src":"share","id":14,"name":"Share Boxes"},
+  {"src":"cookies","id":15,"name":"Cookies"},
+  {"src":"muffin","id":16,"name":"Muffin"},
+  {"src":"birthday","id":17,"name":"Birthday"},
+  {"src":"cards","id":18,"name":"Occasional Cards"},
+  {"src":"fits","id":19,"name":"Fits"}
+]

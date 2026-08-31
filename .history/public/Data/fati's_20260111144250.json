@@ -1,0 +1,12 @@
+[
+    "name":""
+      {"src":"./src/assets/pink.jpg","id":1,"name":"Fati’s Pink Wonderland"},
+  {"src":"./src/assets/bundles.jpg","id":12,"name":"Bundles"},
+  {"src":"./src/assets/donuts.jpg","id":13,"name":"Donuts"},
+  {"src":"./src/assets/share-boxes.jpg","id":14,"name":"Share Boxes"},
+  {"src":"./src/assets/cookies.jpg","id":15,"name":"Cookies"},
+  {"src":"./src/assets/muffin.jpg","id":16,"name":"Muffin"},
+  {"src":"./src/assets/birthday.jpg","id":17,"name":"Birthday"},
+  {"src":"./src/assets/cards.png","id":18,"name":"Occasional Cards"},
+  {"src":"./src/assets/fits.jpg","id":19,"name":"Fits"}
+]

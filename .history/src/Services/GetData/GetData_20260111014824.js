@@ -1,0 +1,12 @@
+import axios from "axios";
+
+export async function GetData(){
+    try{
+const response=await axios.get("/data.json")
+console.log(response);
+
+    }catch(err){
+        console.log(err);
+        
+    }
+}

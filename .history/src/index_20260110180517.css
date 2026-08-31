@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.fixed-img{
+    background-image: url(../src/assets/home.jpg);
+    background-position: center center;
+    a
+}
