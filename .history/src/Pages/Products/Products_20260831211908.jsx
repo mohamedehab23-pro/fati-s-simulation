@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { GetSpecificProductApi } from '../../Services/GetProduct/GetProduct';
 export default function Products() {
-  const [products, setProducts] = useState([])
+  const [products, setProducts] = useState([]
  let {id}= useParams()
  console.log(id);
 
@@ -31,7 +31,7 @@ loadProductData()
 </svg></Link>
 {products.map((product)=><>
 <img src={product.src}  className='h-120 object-cover w-full' alt={product.name} />
-  <div key={product.} className='p-4'>
+  <div key={product.id} className='p-4'>
       <p className='text-3xl font-bold '>{product.name}</p>
       <div className='py-2'>
         <p className='text-[#94628E]'>{product?.flavor1}</p>

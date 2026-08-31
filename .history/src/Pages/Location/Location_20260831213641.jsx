@@ -16,9 +16,8 @@ export default function OrderMode() {
 
 </div>
 <div className='relative'>
-    <input type="text" className='my-2 bg-white rounded outline-0  p-3 w-md  absolute top-4 left-10' placeholder='Enter Location' name="" id="i_frame" />
 
-   <iframe name='i_frame' src='F8&iwloc=B&output=embed' className='w-full h-[75vh]'  ></iframe>
+   <iframe name='i_frame' src='https://www.google.com/maps?q=fatis&amp;z=14&amp;t=m&amp;hl=en&amp;output=embed"' className='w-full h-[75vh]'  ></iframe>
 
   </div> 
 <div className='p-3'>

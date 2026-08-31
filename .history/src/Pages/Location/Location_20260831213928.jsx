@@ -16,9 +16,8 @@ export default function OrderMode() {
 
 </div>
 <div className='relative'>
-    <input type="text" className='my-2 bg-white rounded outline-0  p-3 w-md  absolute top-4 left-10' placeholder='Enter Location' name="" id="i_frame" />
 
-   <iframe name='i_frame' src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6917.011518192556!2d31.05287693998749!3d29.907338676959977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1458533171997ee7%3A0xd738d0e02011b5c3!2z2YPYqNin2KjYrNmJINij2KjZiCDZgtmI2LHYqSDwn5Sl!5e0!3m2!1sen!2seg!4v1771372026383!5m2!1sen!2seg' className='w-full h-[75vh]'  ></iframe>
+   <iframe name='i_frame' src='https://www.google.com/maps/embed?fati.011518192556!2d31.05287693998749!3d29.907338676959977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1458533171997ee7%3A0xd738d0e02011b5c3!2z2YPYqNin2KjYrNmJINij2KjZiCDZgtmI2LHYqSDwn5Sl!5e0!3m2!1sen!2seg!4v1771372026383!5m2!1sen!2seg' className='w-full h-[75vh]'  ></iframe>
 
   </div> 
 <div className='p-3'>

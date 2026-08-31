@@ -16,8 +16,8 @@ export default function OrderMode() {
 
 </div>
 <div className='relative'>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3455.0203213830305!2d31.40017667534347!3d30.007572874942156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14583da6bdb56b35%3A0x714cfc5e4b682895!2sFati's!5e0!3m2!1sen!2seg!4v1788201691919!5m2!1sen!2seg"className='w-full h-[75vh]'  allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-   {/* <iframe name='i_frame' src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6917.011518192556!2d31.05287693998749!3d29.907338676959977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1458533171997ee7%3A0xd738d0e02011b5c3!2z2YPYqNin2KjYrNmJINij2KjZiCDZgtmI2LHYqSDwn5Sl!5e0!3m2!1sen!2seg!4v1771372026383!5m2!1sen!2seg' className='w-full h-[75vh]'  ></iframe> */}
+
+   <iframe name='i_frame' src='https://www.google.com/maps?q=fatis&amp;z=14&amp;t=m&amp;hl=en&amp;output=embed" frameborder="0" scrolling="no" marginheight="0"marginwidth="0"' className='w-full h-[75vh]'  ></iframe>
 
   </div> 
 <div className='p-3'>
