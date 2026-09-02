@@ -2,7 +2,7 @@ import React from 'react'
 import Header from '../../Components/Header/Header'
 import ArrowLeft from '../../Components/ArrowLeft/ArrowLeft'
 import { Link } from 'react-router-dom'
-import sora from '/assets/best.jpg'
+import sora from '../assets/best.jpg'
 export default function Cart() {
   return (
    <>
