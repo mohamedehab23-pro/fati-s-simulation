@@ -32,10 +32,10 @@ data()
 <div className='py-3 gap-2 grid  grid-cols-1 sm:grid-cols-2 '>
 {mainData.map((category)=>
 <Link key={category.id} to={'/categories/'+category.id}>
-<div  className=' p-4 flex flex-col  grow  '>
+<div  className=' p-4 flex flex-col  grow basis-1 '>
   <img className='rounded-xl object-cover h-50 w-full' src={category.src} alt={category.name} />
   <p className='font-bold py-1'>{category.name}</p>
-</div></Link>
+</div></Link
 
 )}
 

@@ -29,10 +29,10 @@ data()
   
   <div className='p-3  '>
   <Link to={'/order-mode'}><Header name={'Delivery'}/></Link>  
-<div className='py-3 gap-2 grid  grid-cols-1 sm:grid-cols-2 '>
+<div className='py-3 gap-2 grid lg:grid-cols-2 grid-cols-1 sm:grid-cols-2 md:grid-cols-3'>
 {mainData.map((category)=>
 <Link key={category.id} to={'/categories/'+category.id}>
-<div  className=' p-4 flex flex-col  grow  '>
+<div  className=' p-4 flex flex-col '>
   <img className='rounded-xl object-cover h-50 w-full' src={category.src} alt={category.name} />
   <p className='font-bold py-1'>{category.name}</p>
 </div></Link>

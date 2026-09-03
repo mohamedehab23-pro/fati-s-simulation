@@ -45,7 +45,7 @@ console.log(err);
 <div className='py-3 gap-2 flex flex-wrap'>
 {categoryProducts.map((category)=>
 
-<div key={category.id} className=' p-4 flex flex-col grow w-1/2 sm:w-1/3'>
+<div key={category.id} className=' p-4 flex flex-col bg-amber-300 grow'>
   <Link to={'/products/'+category.id}>
   <img className='rounded-xl object-cover h-50 w-full' src={category.src} alt={category.name} />
   <p className='font-bold py-1'>{category?.name}</p>
